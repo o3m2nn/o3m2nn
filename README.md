@@ -1,5 +1,5 @@
 ## Slasher
-Hi. I'm Slasher. I am JavaScript, Python And Discord Bot Developer.
+Hi. I'm Slasher, 18 years old. I am JavaScript, Python And Discord Bot Developer. I've been dealing with software for about two years.
 
 <div align="center"> 
  <img src="https://komarev.com/ghpvc/?username=el-slashwr&color=dc143c"/> 
