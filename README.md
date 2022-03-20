@@ -19,4 +19,4 @@ Hi. I'm Slasher. I am JavaScript, Python And Discord Bot Developer.
 ## My Favourite Languages
 <div align="center">
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
-    <img alt="Python" align="center" src="https://img.shields.io/badge/-Python-edb200?style=flat-square&logo=python&logoColor=blue"/>
+    <img alt="Python" align="center" src="https://img.shields.io/badge/-Pyhton-blue?style=flat-square&logo=python&logoColor=white"/>
