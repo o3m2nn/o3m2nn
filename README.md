@@ -1,4 +1,4 @@
-## Slasher
+# Slasher
 Hi. I'm Slasher, 18 years old. I am JavaScript, Python And Discord Bot Developer. I've been dealing with software for about two years.
 
 <div align="center"> 
