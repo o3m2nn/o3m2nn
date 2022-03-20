@@ -23,3 +23,8 @@ Hi. I'm Slasher. I am JavaScript, Python And Discord Bot Developer.
     <img alt="HTML5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img alt="Css" align="center" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css3&logoColor=white"/>
 </div>
+
+== My Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=el-slasher&show_icons=true&theme=radical&hide_border=true" width="%100" height="150px">
+</div>
