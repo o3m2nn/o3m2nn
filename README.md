@@ -1,5 +1,5 @@
 # Me
-Hi. I'm Osman, 17 years old. I am JavaScript and Python Developer. I've been dealing with software for about two years.
+Hi, I am 17 years old. I am C# and Python Developer. I've been dealing with software since 2021.
 
 <div align="center"> 
  <img src="https://komarev.com/ghpvc/?username=o3m2nn&color=dc143c"/> 
@@ -9,7 +9,7 @@ Hi. I'm Osman, 17 years old. I am JavaScript and Python Developer. I've been dea
 
 ## My Favourite Languages
 <div align="center">
-    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
+    <img alt="C#" align="center" src="[https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white](https://commons.wikimedia.org/wiki/File:Csharp_Logo.png)"/>
     <img alt="Python" align="center" src="https://img.shields.io/badge/-Pyhton-blue?style=flat-square&logo=python&logoColor=white"/>
     
 </div>
