@@ -9,7 +9,7 @@ Hi, I am 17 years old. I am C# and Python Developer. I've been dealing with soft
 
 ## My Favourite Languages
 <div align="center">
-    <img alt="C#" align="center" src="[https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white](https://commons.wikimedia.org/wiki/File:Csharp_Logo.png)"/>
+    <img alt="C#" align="center" src="https://img.shields.io/badge/C%23-C--Sharp-brightgreen?style=flat&logo=csharp"/>
     <img alt="Python" align="center" src="https://img.shields.io/badge/-Pyhton-blue?style=flat-square&logo=python&logoColor=white"/>
     
 </div>
